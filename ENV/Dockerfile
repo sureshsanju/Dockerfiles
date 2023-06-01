@@ -1,3 +1,3 @@
 FROM almalinux
-ENV Author="sanju"
+ENV Author="sanju"\
 Duration="25"
